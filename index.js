@@ -24,3 +24,7 @@ function resultLocalisation () {
         document.getElementById("result").innerHTML = position1;
     }
 }
+
+/*
+    Made by Nathanaël Lecron
+*/
